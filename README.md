@@ -13,7 +13,7 @@ Hello world, I'm Idalina!
 
 
 - 👩‍💻 BSc in Biomedical Engineering and soon to be a master in Medicial Informatics
-- 🌱 Currently learning Vue 
+- 🌱 Currently learning .NET 
 - 👯 Looking to collaborate with other learners
 - 📫 Connect with me on [Linkedln](https://www.linkedin.com/in/idalina-de-freitas-85601a209/) ! <br />
 
